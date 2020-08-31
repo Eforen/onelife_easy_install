@@ -29,7 +29,6 @@
    - "namesInfo.txt"
    - "protocol.txt"
    - "sampleTestMap.txt"
-   - "serverCodeVersionNumber.txt"
    - "wordList.txt"
   failed_when: "'No such file or directory' not in command_response.stderr and '' not in command_response.stderr"
 
