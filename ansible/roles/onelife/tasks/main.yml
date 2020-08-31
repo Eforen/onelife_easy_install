@@ -19,12 +19,12 @@
 
 # force yes allow repo to be updated/clone with existance of custom configuration
 - git:
-    repo: 'https://github.com/jasonrohrer/OneLife.git'
+    repo: 'https://github.com/eforen/OneLife.git'
     dest: /opt/onelife/OneLife
     force: yes
 
 - git:
-    repo: 'https://github.com/jasonrohrer/OneLifeData7.git'
+    repo: 'https://github.com/eforen/OneLifeData7.git'
     dest: /opt/onelife/OneLifeData7
     force: yes
 
